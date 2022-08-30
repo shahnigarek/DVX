@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+nav .container{
+    padding:2rem 19rem;
+}
+nav .container .general{
+    display: flex;
+    align-items: center;
+}
+nav .container .first a{
+    font-size: 12.23px;
+    color:#373737;
+    font-weight: bold;
+    line-height: 18.345px;
+} 
+nav .container .second a{
+    font-size: 16px;
+    color:#151515;
+    font-weight:400;
+    line-height: 24px;
+
+}
