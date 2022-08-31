@@ -89,6 +89,8 @@ border-color:#69ACF1;
     
 }
 #first .container .general .right-box .box .a{
+    font-size: 16px;
+    color:#303030;
     border-color: #FFFFFF;
 }
 #first .container .general .right-box .box button{
@@ -97,8 +99,21 @@ border-color:#69ACF1;
     border-radius: 7px;
     margin-bottom: 15px;
     overflow: hidden;
-   
-    
 }
+#first .container .general .right-box .box button .span{
+    display: block;
+    font-weight: bold;
+    color:#303030;
+    font-size: 20px;
+    text-align: start;
+}
+ #first .container .general .right-box .box3  .image img{
+    width: 18%;
+    position:absolute;
 
+ }
+ #first .container .general .right-box .box3 .box  {
+    position: relative;
+ }
+ 
 
